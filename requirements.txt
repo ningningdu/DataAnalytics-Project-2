@@ -10,3 +10,4 @@ dash==1.9.1
 dash_core_components==1.8.1
 gunicorn
 flask
+psycopg2
