@@ -378,7 +378,7 @@ world_heading =  html.H2(children='World Cases: Confirmed, recovered and Deaths'
 # Initialize the app
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.JOURNAL])
 
-
+server = app.server
 #Define the app
 app.layout = html.Div([
 
