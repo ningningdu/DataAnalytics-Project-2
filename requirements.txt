@@ -31,3 +31,4 @@ datetime
 sqlalchemy
 psycopg2
 dash_bootstrap_components
+scipy
